@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084555162232",
+    "project_id": "click-solidario-55e58",
+    "storage_bucket": "click-solidario-55e58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084555162232:android:143803254f3b97151db38d",
+        "android_client_info": {
+          "package_name": "br.com.jocaolse.clicksolidario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbTB2WVOK5kAKEyM2HEmjroIm7NsTvGa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

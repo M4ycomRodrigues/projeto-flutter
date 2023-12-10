@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAjfY57oIIUqeYN3JxNUJmYnq5lX9xGWeU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1084555162232</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.jocaolse.clicksolidario</string>
+	<key>PROJECT_ID</key>
+	<string>click-solidario-55e58</string>
+	<key>STORAGE_BUCKET</key>
+	<string>click-solidario-55e58.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1084555162232:ios:3962354e57a4eb731db38d</string>
+</dict>
+</plist>
